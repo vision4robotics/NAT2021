@@ -1,4 +1,4 @@
-  =>  Template Name    : PetLover - Pet Care Website Template
+  =>  Template Name    : Vision4Robotics - Pet Care Website Template
 
   =>  Template Link    : https://htmlcodex.com/pet-care-website-template
 
