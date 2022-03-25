@@ -9533,6 +9533,10 @@ a.text-primary:hover, a.text-primary:focus {
   color: #c53f12 !important;
 }
 
+.text-V4R {
+  color: #3F51B5 !important;
+}
+
 .text-secondary {
   color: #65C178 !important;
 }
